@@ -11,7 +11,8 @@
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 9,
-    "versionPublish": "4.8.10"
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
