@@ -17,7 +17,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/icon-128x128.png",
     "noImageResize": "",
     "google-analytics": ""
   },
@@ -59,7 +59,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\">Mobirise</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
